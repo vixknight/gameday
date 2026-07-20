@@ -337,7 +337,7 @@ with left:
     st.markdown(
         f"""
         <div class="result-card" style="background: {yankees_color}; color: #111;">
-            <div class="result-label">⚾ Yankees game NPV</div>
+            <div class="result-label">Yankees game NPV</div>
             <div class="result-value">${yankees_npv:,.0f}</div>
             <div class="result-note">
                 Free tickets behind home plate create a major opportunity-value boost.
@@ -352,7 +352,7 @@ with right:
     st.markdown(
         f"""
         <div class="result-card" style="background: {soccer_color}; color: #111;">
-            <div class="result-label">⚽ GIPP soccer NPV</div>
+            <div class="result-label">GIPP soccer NPV</div>
             <div class="result-value">${soccer_npv:,.0f}</div>
             <div class="result-note">
                 Includes expected fun, friendship value, team loyalty, and the unmatched
