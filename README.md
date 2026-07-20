@@ -11,11 +11,12 @@ The calculation responds to three sliders:
 2. Expected fun of the Yankees game
 3. Expected fun of playing fútbol
 
-Values are displayed using a red-yellow-green heatmap scale.
-
 ## Run locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## Streamlit link
+https://gameday-npv.streamlit.app/
