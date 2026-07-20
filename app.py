@@ -16,7 +16,7 @@ st.markdown(
             background:
                 radial-gradient(circle at 10% 10%, rgba(36, 123, 255, 0.18), transparent 30%),
                 radial-gradient(circle at 90% 15%, rgba(250, 185, 30, 0.14), transparent 28%),
-                linear-gradient(145deg, #40155e, #0e1636);
+                linear-gradient(145deg, #090433, #112040);
             color: white;
         }
 
